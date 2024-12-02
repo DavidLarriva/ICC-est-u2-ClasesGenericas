@@ -1,4 +1,4 @@
-# Ejemplo de Clases Genéricas en Java
+# Clases Genéricas en Java
 
 ## Definición de Datos y Clases Genéricas
 Las clases genéricas en Java son una característica que permite trabajar con tipos de datos definidos en tiempo de ejecución. Esto facilita la flexibilidad y reusabilidad en el código, permitiendo que las clases sean más dinámicas y seguras.
